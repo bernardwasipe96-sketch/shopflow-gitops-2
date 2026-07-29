@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
         - name: assistant-service
-          image: 540361297327.dkr.ecr.us-east-1.amazonaws.com/three-tier-demo-assistant:1.0
+          image: 540361297327.dkr.ecr.us-east-1.amazonaws.com/shopflow-assistant:1.0
           ports:
             - containerPort: 8080
           env:

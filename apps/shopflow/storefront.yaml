@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: storefront
-          image: 540361297327.dkr.ecr.us-east-1.amazonaws.com/three-tier-demo-storefront:build-5
+          image: 540361297327.dkr.ecr.us-east-1.amazonaws.com/shopflow-storefront:build-5
           ports:
             - containerPort: 8080
           readinessProbe:

@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: notifications-service
-          image: 540361297327.dkr.ecr.us-east-1.amazonaws.com/three-tier-demo-notifications:build-5
+          image: 540361297327.dkr.ecr.us-east-1.amazonaws.com/shopflow-notifications:build-5
           ports:
             - containerPort: 8080
           env:
