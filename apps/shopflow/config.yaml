@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: shopflow-config
+data:
+  SPRING_DATASOURCE_URL: "jdbc:postgresql://three-tier-demo-db.c23ics8kuucv.us-east-1.rds.amazonaws.com:5432/shopflow"
+  ORDER_EVENTS_QUEUE_NAME: "three-tier-demo-order-events"
+  AWS_REGION: "us-east-1"
