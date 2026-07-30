@@ -1,0 +1,100 @@
+{"message":"I recommend the USB-C Hub (id 3) and Laptop Stand (id 4) to keep your desk tidy by organizing cables and elevating your laptop.","fallback":false}{"message":"I recommend the USB-C Hub (id 3) and Laptop Stand (id 4) to keep your desk tidy by organizing cables and elevating your laptop.","fallback":false} | 200 0.993311s
+ | 200 1.035051s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the USB-C Hub (id 3) and Laptop Stand (id 4) to keep your desk tidy by organizing cables and elevating your laptop.","fallback":false} | 200 0.824651s
+ | 200 1.088657s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.915210s
+{"message":"I recommend the USB-C Hub (id 3) and Laptop Stand (id 4) to keep your desk tidy by organizing cables and elevating your laptop.","fallback":false} | 200 0.777621s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.723616s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.683353s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.745865s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.672477s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.711298s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.675807s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.678535s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.693587s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.068746s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.464323s
+ | 200 1.510466s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.393923s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.115931s
+ | 200 1.165160s
+ | 200 1.575628s
+ | 200 1.305822s
+ | 200 1.010155s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.134696s
+ | 200 0.848599s
+ | 200 1.031378s
+ | 200 0.819383s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.706677s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.690121s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.699689s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.686417s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.731997s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.689236s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.712439s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.696473s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.659811s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.678465s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.706577s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.695265s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 0.749347s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.172967s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.173334s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.965556s
+ | 200 1.132184s
+ | 200 0.906629s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.205280s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.907390s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.157889s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.091971s
+ | 200 0.853007s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.173679s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.335920s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.120568s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.907884s
+ | 200 1.102418s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.153235s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 0.903916s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false}{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.118912s
+ | 200 0.955620s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 0.949338s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.328515s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.310544s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.366138s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.831273s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 1.824724s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 2.174070s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 2.027932s
+ | 200 1.659654s
+ | 200 2.139204s
+ | 200 1.814124s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.590200s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 2.063641s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.918490s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and consolidating cables.","fallback":false} | 200 1.791184s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 2.135126s
+{"message":"I recommend the Laptop Stand (id 4) and USB-C Hub (id 3) to keep your desk tidy by elevating your laptop and organizing cables.","fallback":false} | 200 2.408480s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.465149s
+ | 200 1.936802s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.874792s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.898244s
+ | 200 1.740044s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.826781s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.627159s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.681732s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.805385s
+ | 200 1.887444s
+ | 200 2.091585s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.722062s
+ | 200 1.456052s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.641794s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 2.042759s
+ | 200 1.692907s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.188466s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 2.209492s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true}{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.531196s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.723620s
+ | 200 1.248407s
+ | 200 1.483668s
+ | 200 1.412191s
+{"message":"Our assistant is busy right now. Browse our products above, or try again in a moment.","fallback":true} | 200 1.635421s
