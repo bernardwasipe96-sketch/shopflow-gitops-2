@@ -6,10 +6,12 @@ data:
   CATALOG_URL: "http://catalog-service:8080"
   LLM_BASE_URL: "https://api.groq.com/openai/v1"
   LLM_MODEL: "llama-3.3-70b-versatile"
-  LLM_TEMPERATURE: "1.0"
+  LLM_TEMPERATURE: "0.2"
   LLM_TIMEOUT_SECONDS: "1"
   ASSISTANT_SYSTEM_PROMPT: >-
     You are a helpful shopping assistant for an online store called ShopFlow.
+    Recommend ONLY products from the list you are given. Never invent a product.
+    If nothing in the list fits the customer's need, say so honestly.
     Be warm, concise, and practical. Never mention that you are an AI model.
 ---
 apiVersion: apps/v1
